@@ -1,6 +1,6 @@
-# Garcia-final-term-repo (Politics of judicial appointments and interbranch relations)
-Abstract: Prepropectus on politics of judicial appointments and interbranch relations. The main project included in this repo studies how the nuclear option changed the determinants of Senate judicial confirmations. 
-Also supports extensions on Chilean appointment delays, presidential selection from shortlists, and comparative appointment systems.
+# Garcia-final-term-repo 
+
+Topic: Prepropectus on politics of judicial appointments and interbranch relations.
 
 Explanation: This repository contains the materials for a broader research agenda on the politics of judicial appointments and interbranch bargaining. 
 The core project for this semester examines judicial confirmations in the United States, focusing on how the nuclear option changed altered the determinante of the senatorial votes for judicial confirmations, which is part of my qualifying paper. 
